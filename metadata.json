@@ -1,0 +1,6 @@
+{
+  "name": "Foot Pro 27",
+  "description": "Le magasin de football premium à Massra, Mostaganem, Algérie. Crampons originaux, maillots, vêtements, accessoires de football, avec livraison rapide dans les 58 wilayas et commande facile via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
